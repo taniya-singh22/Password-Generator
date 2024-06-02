@@ -11,7 +11,7 @@ A simple, customizable password generator built with HTML, CSS, and JavaScript.
 
 ## Demo
 
-You can view a live demo of the password generator [here]
+You can view a live demo of the password generator [(https://password-generator-eta-azure.vercel.app/)]
 
 ## Getting Started
 
